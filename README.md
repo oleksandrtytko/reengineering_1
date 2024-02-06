@@ -1,5 +1,5 @@
 # reengineering_1
-Problems:
+Problems / code changes:
 1. humanIMB class must be moved to a separate file.
 2. humanIMB class must be renamed to HumanImb.
 3. HumanImb fields modifiers must be converted to private.
